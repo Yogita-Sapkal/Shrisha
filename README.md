@@ -1,3 +1,3 @@
 # Shrisha
 Changes are done
-Hello everyone
+hi everyone
